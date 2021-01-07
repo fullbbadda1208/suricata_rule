@@ -21,5 +21,5 @@ Access Site List
 - odonata.miza-ucv.org.ve
 
 Reference
-https://suricata.readthedocs.io/en/suricata-5.0.4/index.html,
-https://suricata.readthedocs.io/en/suricata-5.0.4/rules/index.html
+- https://suricata.readthedocs.io/en/suricata-5.0.4/index.html
+- https://suricata.readthedocs.io/en/suricata-5.0.4/rules/index.html
